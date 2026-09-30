@@ -1,0 +1,14 @@
+C:\Users\SmartPC\Desktop\projekatSistemsko2\DrugiProjekat\TestKlijent\bin\Debug\net8.0\TestKlijent.exe
+C:\Users\SmartPC\Desktop\projekatSistemsko2\DrugiProjekat\TestKlijent\bin\Debug\net8.0\TestKlijent.deps.json
+C:\Users\SmartPC\Desktop\projekatSistemsko2\DrugiProjekat\TestKlijent\bin\Debug\net8.0\TestKlijent.runtimeconfig.json
+C:\Users\SmartPC\Desktop\projekatSistemsko2\DrugiProjekat\TestKlijent\bin\Debug\net8.0\TestKlijent.dll
+C:\Users\SmartPC\Desktop\projekatSistemsko2\DrugiProjekat\TestKlijent\bin\Debug\net8.0\TestKlijent.pdb
+C:\Users\SmartPC\Desktop\projekatSistemsko2\DrugiProjekat\TestKlijent\obj\Debug\net8.0\TestKlijent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SmartPC\Desktop\projekatSistemsko2\DrugiProjekat\TestKlijent\obj\Debug\net8.0\TestKlijent.AssemblyInfoInputs.cache
+C:\Users\SmartPC\Desktop\projekatSistemsko2\DrugiProjekat\TestKlijent\obj\Debug\net8.0\TestKlijent.AssemblyInfo.cs
+C:\Users\SmartPC\Desktop\projekatSistemsko2\DrugiProjekat\TestKlijent\obj\Debug\net8.0\TestKlijent.csproj.CoreCompileInputs.cache
+C:\Users\SmartPC\Desktop\projekatSistemsko2\DrugiProjekat\TestKlijent\obj\Debug\net8.0\TestKlijent.dll
+C:\Users\SmartPC\Desktop\projekatSistemsko2\DrugiProjekat\TestKlijent\obj\Debug\net8.0\refint\TestKlijent.dll
+C:\Users\SmartPC\Desktop\projekatSistemsko2\DrugiProjekat\TestKlijent\obj\Debug\net8.0\TestKlijent.pdb
+C:\Users\SmartPC\Desktop\projekatSistemsko2\DrugiProjekat\TestKlijent\obj\Debug\net8.0\TestKlijent.genruntimeconfig.cache
+C:\Users\SmartPC\Desktop\projekatSistemsko2\DrugiProjekat\TestKlijent\obj\Debug\net8.0\ref\TestKlijent.dll

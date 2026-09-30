@@ -1,0 +1,69 @@
+16:23:35.526 [nit 4] Zahtev za fajl: slika.jpg, prag: 128
+16:23:35.560 [nit 4] Rezervisan kljuc za obradu: slika.jpg_128
+16:23:41.592 [nit 9] Binarizacija zavrsena za kljuc: slika.jpg_128
+16:23:41.678 [nit 9] Zahtev za fajl: favicon.ico, prag: 
+16:23:45.208 [nit 9] Zahtev za fajl: slika.jpg, prag: 128
+16:23:45.212 [nit 9] Pogodak u kesu za kljuc: slika.jpg_128
+16:23:49.333 [nit 4] Zahtev za fajl: slika.jpg, prag: 128
+16:23:49.340 [nit 4] Pogodak u kesu za kljuc: slika.jpg_128
+16:23:56.852 [nit 4] Zahtev za fajl: slika.jpg, prag: 128
+16:23:56.853 [nit 4] Pogodak u kesu za kljuc: slika.jpg_128
+16:24:17.553 [nit 10] Zahtev za fajl: slika2.jpg, prag: 128
+16:24:17.560 [nit 10] Rezervisan kljuc za obradu: slika2.jpg_128
+16:24:32.935 [nit 10] Binarizacija zavrsena za kljuc: slika2.jpg_128
+16:24:32.944 [nit 10] Zahtev za fajl: slika2.jpg, prag: 128
+16:24:32.945 [nit 10] Pogodak u kesu za kljuc: slika2.jpg_128
+16:24:33.014 [nit 10] Zahtev za fajl: slika2.jpg, prag: 128
+16:24:33.029 [nit 10] Pogodak u kesu za kljuc: slika2.jpg_128
+16:24:33.060 [nit 10] Zahtev za fajl: slika2.jpg, prag: 128
+16:24:33.149 [nit 10] Pogodak u kesu za kljuc: slika2.jpg_128
+16:24:33.168 [nit 10] Zahtev za fajl: slika2.jpg, prag: 128
+16:24:33.211 [nit 10] Pogodak u kesu za kljuc: slika2.jpg_128
+16:25:17.806 [nit 3] Zahtev za fajl: foto.jpg, prag: abc
+21:22:15.930 [nit 3] Zahtev za fajl: slika.jpg, prag: 122
+21:22:15.978 [nit 3] Rezervisan kljuc za obradu: slika.jpg_122
+21:22:18.360 [nit 11] Zahtev za fajl: foto.jpg, prag: 128
+21:22:19.962 [nit 13] Zahtev za fajl: slika.jpg, prag: 128
+21:22:19.964 [nit 13] Rezervisan kljuc za obradu: slika.jpg_128
+21:22:23.518 [nit 3] Binarizacija zavrsena za kljuc: slika.jpg_122
+21:22:23.526 [nit 3] Zahtev za fajl: slika.jpg, prag: 122
+21:22:23.527 [nit 3] Pogodak u kesu za kljuc: slika.jpg_122
+21:22:26.796 [nit 3] Binarizacija zavrsena za kljuc: slika.jpg_128
+21:22:26.952 [nit 3] Zahtev za fajl: slika.jpg, prag: 122
+21:22:26.970 [nit 3] Pogodak u kesu za kljuc: slika.jpg_122
+21:22:36.119 [nit 3] Zahtev za fajl: slika2.jpg, prag: 122
+21:22:36.121 [nit 3] Rezervisan kljuc za obradu: slika2.jpg_122
+21:22:52.386 [nit 3] Binarizacija zavrsena za kljuc: slika2.jpg_122
+21:22:52.394 [nit 3] Zahtev za fajl: slika2.jpg, prag: 122
+21:22:52.397 [nit 3] Pogodak u kesu za kljuc: slika2.jpg_122
+21:22:53.130 [nit 3] Zahtev za fajl: slika2.jpg, prag: 122
+21:22:53.133 [nit 3] Pogodak u kesu za kljuc: slika2.jpg_122
+21:29:02.354 [nit 6] Zahtev za fajl: slika.jpg, prag: 128
+21:29:02.386 [nit 6] Rezervisan kljuc za obradu: slika.jpg_128
+21:29:03.939 [nit 7] Zahtev za fajl: slika.jpg, prag: 122
+21:29:03.966 [nit 7] Rezervisan kljuc za obradu: slika.jpg_122
+21:29:09.295 [nit 9] Zahtev za fajl: slika2.jpg, prag: 122
+21:29:09.298 [nit 9] Rezervisan kljuc za obradu: slika2.jpg_122
+21:29:10.486 [nit 6] Binarizacija zavrsena za kljuc: slika.jpg_128
+21:29:11.978 [nit 7] Binarizacija zavrsena za kljuc: slika.jpg_122
+21:29:11.984 [nit 4] Zahtev za fajl: slika.jpg, prag: 122
+21:29:11.988 [nit 4] Pogodak u kesu za kljuc: slika.jpg_122
+21:29:12.032 [nit 4] Zahtev za fajl: slika.jpg, prag: 122
+21:29:12.041 [nit 4] Pogodak u kesu za kljuc: slika.jpg_122
+21:29:25.586 [nit 9] Binarizacija zavrsena za kljuc: slika2.jpg_122
+21:29:25.595 [nit 9] Zahtev za fajl: slika2.jpg, prag: 122
+21:29:25.597 [nit 9] Pogodak u kesu za kljuc: slika2.jpg_122
+21:29:25.618 [nit 9] Zahtev za fajl: slika2.jpg, prag: 122
+21:29:25.622 [nit 9] Pogodak u kesu za kljuc: slika2.jpg_122
+21:33:02.930 [nit 9] Zahtev za fajl: slika.jpg, prag: 99
+21:33:03.173 [nit 9] Rezervisan kljuc za obradu: slika.jpg_99
+21:33:03.233 [nit 9] Zahtev za fajl: slika.jpg, prag: 99
+21:33:03.381 [nit 9] Cekam da se zavrsi obrada za kljuc: slika.jpg_99
+21:33:12.698 [nit 9] Pogodak u kesu za kljuc: slika.jpg_99
+21:33:12.698 [nit 5] Binarizacija zavrsena za kljuc: slika.jpg_99
+21:33:12.711 [nit 9] Zahtev za fajl: slika.jpg, prag: 99
+21:33:12.712 [nit 9] Pogodak u kesu za kljuc: slika.jpg_99
+21:33:12.714 [nit 9] Zahtev za fajl: slika.jpg, prag: 99
+21:33:12.717 [nit 9] Pogodak u kesu za kljuc: slika.jpg_99
+21:33:12.719 [nit 9] Zahtev za fajl: slika.jpg, prag: 99
+21:33:12.720 [nit 9] Pogodak u kesu za kljuc: slika.jpg_99
